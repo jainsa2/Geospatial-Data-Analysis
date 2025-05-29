@@ -1,0 +1,7 @@
+geopandas
+folium
+pandas
+matplotlib
+plotly
+shapely
+jupyter
